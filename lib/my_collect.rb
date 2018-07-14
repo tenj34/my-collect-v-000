@@ -6,7 +6,6 @@ def my_collect(arr)
       i += 1
     end
     collection
-  end
 
 
 end
