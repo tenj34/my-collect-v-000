@@ -7,3 +7,6 @@ def my_collect(arr)
     end
     collection
 end
+
+students = ["Tim Jones", "Tom Smith", "Jim Campagno"]
+programs = ['ruby', 'javascript', 'python', 'objective-c']
